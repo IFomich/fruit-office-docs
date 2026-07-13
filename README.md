@@ -1,9 +1,13 @@
 Это тестовый проект для демонстрации примера документации.
 
-Документация доступна по URL:
+**Документация доступна по URL**:
 
 https://ifomich.github.io/fruit-office-docs/
 
-Пример готовой инструкции:
+**Пример готовой инструкции**:
 
 https://ifomich.github.io/fruit-office-docs/02-employee-guide/track-order/
+
+**Макеты в ГУИ в Figma**:
+
+https://www.figma.com/design/GPWGKxGYmdD5e8j2gclnqx/FruitOffice?node-id=0-1&t=OFDuh0QFivdWw9wW-1
