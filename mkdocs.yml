@@ -1,0 +1,31 @@
+site_name: FruitOffice
+docs_dir: docs
+theme:
+  name: material
+
+plugins:
+  - search
+  - macros
+
+nav:
+  - index.md
+  - 01-quick-start/index.md
+  - 'Руководство сотрудника':
+      - 02-employee-guide/create-order.md
+      - 02-employee-guide/track-order.md
+      - 02-employee-guide/manage-order.md
+      - 02-employee-guide/chat.md
+      - 02-employee-guide/history.md
+      - 02-employee-guide/profile.md
+  - 'Руководство продавца':
+      - 03-shop-guide/view-orders.md
+      - 03-shop-guide/change-status.md
+      - 03-shop-guide/chat.md
+      - 03-shop-guide/users-history.md
+      - 03-shop-guide/profile.md
+  - 04-technical-support/index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
